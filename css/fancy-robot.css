@@ -78,10 +78,11 @@
 }
 
 .robot-nose {
-  height: 50px;
-  width: 50px;
+  height: 20%;
+  width: 20%;
   clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
-  background: rgb(134, 164, 91, 50%);
+  background: rgb(134, 164, 91);
+  opacity: 50%;
   margin: 120px;
   border: 5px solid blueviolet;
   position: absolute;
@@ -238,8 +239,8 @@
 }
 
 .robot-hair-three {
-  height: 75px;
-  width: 50px;
+  height: 4.1em;
+  width: 2.2em;
   background-color: pink;
   position: absolute;
   border-radius: 50%;
@@ -263,8 +264,8 @@
   margin: 80px 220px;
 }
 .robot-hair-three-1 {
-  height: 75px;
-  width: 50px;
+  height: 4.1em;
+  width: 2.2em;
   background-color: pink;
   position: absolute;
   border-radius: 50%;
